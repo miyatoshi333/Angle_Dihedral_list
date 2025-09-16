@@ -1,5 +1,3 @@
 This project provides a Fortran program to generate angle and dihedral lists from topology files.
-It requires an input on which the connection table is written in the following way.
-    1    2
-    2    3
-    3    4
+It requires an input on which the connection table.
+
